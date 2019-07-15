@@ -1,0 +1,14 @@
+Define a function to check if a list of words(passed as parameter) is/are palindrome. Convert the following words into a list and write a script calling the above defined function and print about which word in list is palindrome. 
+1. Accolite
+2. Noon
+3. Bumper
+4. Corporate
+5. Malayalam
+6. Madam
+7. Civic
+
+If the word is palindrome, then map each letter of that word to the number of alphabetical order and print the number corresponding to the word. For eg: If the word is 'AZF' the the corresponding number should be [(1+26+6) = 33] with A corresponding to 1 and Z to 26. 
+
+After defining the number write two more functions to check if a number is odd/even and if it is an armstrong number and call these 2 functions to check the number obtained from palindrome words. 
+
+
